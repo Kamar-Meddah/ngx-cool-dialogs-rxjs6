@@ -1,3 +1,9 @@
+
+# 0.1.4 (05-08-2019)
+## Fix
+
+- rxjs-compact is no longer needed
+
 # 0.1.3 (02-04-2018)
 
 ## Fix
